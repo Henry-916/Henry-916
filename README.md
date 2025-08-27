@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henry-916
-- 👀 I’m interested in playing badminton
+- 👀 I’m interested in long-distance running
 - 🌱 I’m currently learning C/C++
 - 📫 I’m a student in HuaZhong agriculture university
 
